@@ -1,0 +1,6 @@
+name: BukkitPlugin
+main: xyz.sk1.bukkit.testplugin.Main
+api-version: 1.21
+version: 1.0
+author: skylar
+website: www.sk1.xyz
